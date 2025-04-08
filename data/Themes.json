@@ -1,12 +1,12 @@
 {
   "themes": {
     "red": {
-      "bg": "#1c0707",
+      "bg": "#140303",
       "line": "#421e1e",
-      "primary": "#9c3636",
-      "secondary": "#662a2a",
+      "primary": "#872020",
+      "secondary": "#6b1f1f",
       "tertiary": "#301212",
-      "outline": "#8f2527"
+      "outline": "#961719"
     },
     "yellow": {
       "bg": "#171400",
@@ -14,7 +14,7 @@
       "primary": "#ad9200",
       "secondary": "#6b6902",
       "tertiary": "#292900",
-      "outline": "#d6d260"
+      "outline": "#d6c02f"
     },
     "green": {
       "bg": "#141c15",
@@ -22,7 +22,7 @@
       "primary": "#4f7d4b",
       "secondary": "#47693e",
       "tertiary": "#1d2a1f",
-      "outline": "#438a4c"
+      "outline": "#246e2d"
     },
     "blue": {
       "bg": "#14151c",
@@ -30,7 +30,7 @@
       "primary": "#4b5c7d",
       "secondary": "#3e4569",
       "tertiary": "#1d1f2a",
-      "outline": "#4b58cc"
+      "outline": "#21519e"
     },
     "purple": {
       "bg": "#1b141c",
@@ -46,7 +46,7 @@
       "primary": "#7d4b75",
       "secondary": "#693e5e",
       "tertiary": "#2a1d27",
-      "outline": "#914183"
+      "outline": "#9c2f88"
     }
   }
 }
