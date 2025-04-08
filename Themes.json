@@ -1,0 +1,52 @@
+{
+  "themes": {
+    "red": {
+      "bg": "#1c0707",
+      "line": "#421e1e",
+      "primary": "#9c3636",
+      "secondary": "#662a2a",
+      "tertiary": "#301212",
+      "outline": "#8f2527"
+    },
+    "yellow": {
+      "bg": "#171400",
+      "line": "#4a4719",
+      "primary": "#ad9200",
+      "secondary": "#6b6902",
+      "tertiary": "#292900",
+      "outline": "#d6d260"
+    },
+    "green": {
+      "bg": "#141c15",
+      "line": "#304230",
+      "primary": "#4f7d4b",
+      "secondary": "#47693e",
+      "tertiary": "#1d2a1f",
+      "outline": "#438a4c"
+    },
+    "blue": {
+      "bg": "#14151c",
+      "line": "#303442",
+      "primary": "#4b5c7d",
+      "secondary": "#3e4569",
+      "tertiary": "#1d1f2a",
+      "outline": "#4b58cc"
+    },
+    "purple": {
+      "bg": "#1b141c",
+      "line": "#403042",
+      "primary": "#754b7d",
+      "secondary": "#633e69",
+      "tertiary": "#281d2a",
+      "outline": "#8e5ed1"
+    },
+    "pink": {
+      "bg": "#1c141a",
+      "line": "#42303e",
+      "primary": "#7d4b75",
+      "secondary": "#693e5e",
+      "tertiary": "#2a1d27",
+      "outline": "#914183"
+    }
+  }
+}
